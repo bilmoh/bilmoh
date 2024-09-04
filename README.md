@@ -7,11 +7,9 @@
 - Innovative web applications: I'm particularly interested in anything that involves in improving user's day to day life .
 
 ### 🤝 I’m looking for help with
-- Enhancing app performance: Looking for tips and best practices to optimise React apps.
-- Learning resources: Recommendations for advanced Firebase tutorials.
+- Enhancing app performance: Looking for tips and best practices to optimise.
 
 ### 🌱 I’m currently learning
-- TypeScript & Tailwind CSS: I'm learning TypeScript & Tailwind CSS to improve my code quality and maintainability.
 - Machine Learning: Exploring machine learning concepts to integrate AI features into my projects.
 
 ### 💬 Ask me about
